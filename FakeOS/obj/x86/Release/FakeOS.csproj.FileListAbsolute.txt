@@ -1,0 +1,13 @@
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Fake Operating System\FakeOS\bin\Release\Resources\keyboard-typing.wav
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Fake Operating System\FakeOS\bin\Release\FakeOS.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Fake Operating System\FakeOS\bin\Release\FakeOS.pdb
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Fake Operating System\FakeOS\bin\Release\CSCore.dll
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Fake Operating System\FakeOS\bin\Release\CSCore.xml
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Fake Operating System\FakeOS\obj\x86\Release\FakeOS.csprojResolveAssemblyReference.cache
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Fake Operating System\FakeOS\obj\x86\Release\FakeOS.Form_Chat.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Fake Operating System\FakeOS\obj\x86\Release\FakeOS.Form_Desktop.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Fake Operating System\FakeOS\obj\x86\Release\FakeOS.Form_Messages.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Fake Operating System\FakeOS\obj\x86\Release\FakeOS.Properties.Resources.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Fake Operating System\FakeOS\obj\x86\Release\FakeOS.csproj.GenerateResource.Cache
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Fake Operating System\FakeOS\obj\x86\Release\FakeOS.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Fake Operating System\FakeOS\obj\x86\Release\FakeOS.pdb
